@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+this is a file from developer1.
+
+this is a file from developer2
+
